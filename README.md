@@ -10,6 +10,11 @@ Run command        mvn compile
 ![Alt text](https://github.com/user-attachments/assets/e719481f-b2f3-4094-ab11-c74bed1f8fa4)
 
 ### Step 4
+Run command        mvn exec:java
+![Alt text](https://github.com/user-attachments/assets/3ad4b439-e2f0-49ee-9a5e-ef27c78552c4)
+
+
+### Step 4
 Run command        mvn test
 ![Alt text](https://github.com/user-attachments/assets/e4ac2126-fb1b-4bb9-91ab-2688c6b7421d)
 
